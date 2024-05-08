@@ -1,4 +1,6 @@
-### Hi there 👋
+# About me
+- I'm studying physics at Yale.
+- A condensed matter experimentalist.
 
 <!--
 **RobertKZB/RobertKZB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
